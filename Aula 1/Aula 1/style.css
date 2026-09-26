@@ -1,0 +1,58 @@
+p#letraA {
+    color: red;
+    text-shadow: 0px 0px 3px black;
+}
+
+p#letraE {
+    color: blue;
+    text-shadow: 0px 0px 3px black;
+}
+
+p#letraI {
+    color: green;
+    text-shadow: 0px 0px 3px black;
+}
+
+p#letraO {
+    color: yellow;
+    text-shadow: 0px 0px 3px black;
+}
+
+p#letraU {
+    color: purple;
+    text-shadow: 0px 0px 3px black;
+
+}
+
+
+p#letraA:hover {
+    font-weight: bold;
+    color:red;
+    cursor: pointer; 
+}
+
+p#letraE:hover {
+    font-weight: bold;
+    color: blue;
+    cursor: pointer;   
+}
+
+p#letraI:hover {
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+p#letraO:hover {
+    font-weight: bold;
+    color: yellow;
+    cursor: pointer;
+}
+
+p#letraU:hover {
+    font-weight: bold;
+    color: purple;
+    cursor: pointer;
+}
+
+
